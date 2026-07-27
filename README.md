@@ -4,6 +4,9 @@
 
 I work across the full stack in **.NET** and **Angular**, and I care about the parts that are easy to get wrong: authorization boundaries, testing that targets real risk, infrastructure as code, and being honest about tradeoffs. I'm Microsoft Certified (**Azure Developer Associate, AZ-204**) and a **SAFe 5 Practitioner**.
 
+🛠️ **Working with:** .NET · Angular · Keycloak · Terraform · Azure · PostgreSQL · Docker
+🔭 **Currently building:** `chairside-identity` — the security foundation of the portfolio below.
+
 📫 [nsaid26@gmail.com](mailto:nsaid26@gmail.com) · [LinkedIn](https://www.linkedin.com/in/nsaid26/)
 
 ---
