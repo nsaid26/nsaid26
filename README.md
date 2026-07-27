@@ -4,7 +4,7 @@
 
 I work across the full stack in **.NET** and **Angular**, and I care about the parts that are easy to get wrong: authorization boundaries, testing that targets real risk, infrastructure as code, and being honest about tradeoffs. I'm Microsoft Certified (**Azure Developer Associate, AZ-204**) and a **SAFe 5 Practitioner**.
 
-🛠️ **Working with:** .NET · Angular · Keycloak · Terraform · Azure · PostgreSQL · Docker
+🛠️ **Working with:** .NET · Angular · Keycloak · Terraform · Azure · PostgreSQL · Docker<br>
 🔭 **Currently building:** `chairside-identity` — the security foundation of the portfolio below.
 
 📫 [nsaid26@gmail.com](mailto:nsaid26@gmail.com) · [LinkedIn](https://www.linkedin.com/in/nsaid26/)
@@ -46,7 +46,7 @@ flowchart TB
 ### The repositories
 
 | # | Repository | What it demonstrates | Status |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | 1 | **chairside-identity** | Complete OIDC flow as the subject, not a detail: Keycloak realm-as-code, three-layer authorization, tests weighted toward denial | 🚧 In progress *(private)* |
 | 2 | **chairside-platform** | Reusable Terraform modules; `local` genuinely provisioned, `qa`/`prod` designed and documented; Azure-primary reference design | 🗓️ Planned |
 | 3 | **chairside** | Flagship modular monolith API + Angular SPA — `Scheduling`, `Patients`, `Clinical`, `Billing` as vertical slices | 🗓️ Planned |
